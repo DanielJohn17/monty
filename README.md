@@ -1,1 +1,1 @@
-# C - Stacks, Queues - LIFO, FIFO
+# C - C - Sorting algorithms & Big O
